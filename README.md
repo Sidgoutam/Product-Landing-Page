@@ -3,5 +3,5 @@ Create columns and align the components of the landing page within the columns. 
 
 Website developed using SASS and bootstrap components navbar and card 
 
-![Images](output1.png)
-![Images](output2.png)
+![Images](out1.png)
+![Images](out2.png)
